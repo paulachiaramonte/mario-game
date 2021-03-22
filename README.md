@@ -2,6 +2,8 @@
 Project in which I recreated a simpler version of the arcade game Donkey Kong using 'Pyxel' a game engine for Python. 
 Final project for the Programming course at the my university
 
+For able to play the game Pyxel must be installed https://github.com/kitao/pyxel
+
 # Functionality of the game 
 
 When the game is initialized, Donkey Kong starts right away throwing the barrels down the platforms, and Mario is allowed to move from right to left and jump only when he is standing on the platform, and up and down when he is in front of a functional ladder. Also, when he reaches the end of a platform, he can go down to the platform below, without needing to use a ladder. When a barrel approaches Mario, he has to jump the barrel, and if he does the player gets one point. Else, if the player touches a barrel, he loses a life and restarts the game from the start point and all the barrels in the board disappear. These barrels can go down at the end of the platform, and they also have a 25% chance of going down a functional ladder.
