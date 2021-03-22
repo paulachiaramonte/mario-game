@@ -2,7 +2,7 @@
 Project in which I recreated a simpler version of the arcade game Donkey Kong using 'Pyxel' a game engine for Python. 
 Final project for the Programming course at the my university
 
-For able to play the game Pyxel must be installed https://github.com/kitao/pyxel
+For able to play the Pyxel must be installed https://github.com/kitao/pyxel
 
 # Functionality of the game 
 
