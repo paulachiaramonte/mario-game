@@ -8,9 +8,6 @@ When the game is initialized, Donkey Kong starts right away throwing the barrels
 
 The goal of Mario is to reach the highest platform and climb the ladder to the Princess’ platform. When he reaches this platform, the game starts all over again, Mario goes back to his start point, and the bonus score accumulated is added to the current score. When Mario loses all his lives, the game finishes and the screen shows ‘Game Over’, accompanied by an animated Donkey Kong celebrating his victory, and the score in the previous game and the highest score achieved by the player all of the times he has played. We added another functionality, which is if the player presses the letter R, the game starts all over again, the score is set to zero, the high score is kept and he gets back all of his lives. 
 
-We were also able to animate Donkey Kong, simulating its movement of throwing the barrels every time a barrel is thrown, animate the rolling movement of the barrels, and Mario’s walking, jumping and climbing of the ladders. We added as an extra animation the princess yelling ‘Help!’ when Mario is in certain positions and the Bonus Score decreasing its value every certain period of time. Likewise, we added as an extra functionality the background music, and the sound effects when Mario jumps a barrel touches a barrel and reaches to the princess’ platform. 
-
-
 # Classes Design
 To develop the game I created 11 private classes: 
 
