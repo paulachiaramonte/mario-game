@@ -1,5 +1,5 @@
 # mario-game
-Project in which I recreated a simpler version of the arcade game Donkey Kong using 'Pyxel', a game engine for Python. 
+Project in which I recreated a simpler version of the arcade game Donkey Kong using 'Pyxel', a game engine using **OOP in Python**
 Final project for the Programming course at the my university
 
 For able to play, Pyxel must be installed https://github.com/kitao/pyxel
